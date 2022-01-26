@@ -22,7 +22,7 @@ Note that MD5 hashes in PRs will be checked against warosu via script, to
 ensure there is no "poisoning the well".
 
 ## Yeah, I don't care, I just want to get my dick sucked
-If you think this rush job python trollware somehow warrants implementing 
+If you think this rush job python script somehow warrants implementing 
 smarter image checking (i.e. using computer vision to detect Amelia Watson's 
 model and colorscheme) and implement it in a working PR, I will personally 
 come to your house and suck your dick.
