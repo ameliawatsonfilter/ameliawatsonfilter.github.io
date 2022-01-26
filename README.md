@@ -3,6 +3,16 @@ This repo hosts an hourly updated list of image MD5 hashes scraped from
 4channel's /vt/ board in 4chan X's image MD5 filter format, for the purpose 
 of building a comprehensive filter of images containing the vtuber Amelia Watson.
 
+Just copy the contents of [filter.txt](https://ameliawatsonfilter.github.io/filter.txt)
+into your 4chan X, in the "image MD5" filter field and you're off to the races.
+If you also want to filter comments about Amelia Watson, put this in the "comment" field:
+```
+/amelia/i;boards:vt
+/watson/i;boards:vt
+/teamate/i;boards:vt
+/\same\s/i;boards:vt
+```
+
 ## How can I help?
 PRs which make the list more comprehensive are accepted, however, as commits
 are automated hourly it's impossible for your PR's `filter.txt` to sync up with
