@@ -1,7 +1,7 @@
 # What is this?
 This repo hosts an hourly updated list of image MD5 hashes scraped from
 4channel's /vt/ board in 4chan X's image MD5 filter format, for the purpose 
-of building a comprehensive filter of images of the vtuber Amelia Watson.
+of building a comprehensive filter of images containing the vtuber Amelia Watson.
 
 PRs which make the list more comprehensive are accepted, however, as commits
 are automated hourly it's impossible for your PR's `filter.txt` to sync up with
