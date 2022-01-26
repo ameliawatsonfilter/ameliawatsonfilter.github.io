@@ -11,8 +11,7 @@ add in a seperate file `pr.txt` so they can be merged into `filter.txt` manually
 Note that MD5 hashes in PRs will be checked against warosu via script, to
 ensure there is no "poisoning the well".
 
-## ryan_gosling_god_damn_it.mov
 If you think this dumbass python trollware somehow warrants implementing 
 smarter image checking (i.e. using computer vision to detect Amelia Watson's 
-colorscheme) and implements it in a working PR, I will personally come to 
-your house and suck your dick.
+model and colorscheme) and implement it in a working PR, I will personally 
+come to your house and suck your dick.
